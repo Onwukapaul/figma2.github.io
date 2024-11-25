@@ -1,0 +1,280 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.container1{
+  background-image: url("first.png");  
+}
+.first{
+    padding-bottom: 0;
+    margin: 0;
+    
+    
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 5px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 5px;
+}
+ul li{
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: blue;
+}
+.engage{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    margin: 10px;
+    color: blue;
+}
+.login, .try{
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.login:hover, .try:hover{
+    border: blue 1px solid;
+    background-color: blue;
+    border-radius: 45%;
+    color: white;
+}
+img{
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+
+.register{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.signup, .learn{
+    margin: 20px;
+    padding: 10px;
+    font-size: 23px;
+    color: blue;
+}
+
+.signup:hover, .learn:hover{
+    border: blue 1px solid;
+    background-color: blue;
+    border-radius: 45%;
+    color: white;
+}
+
+
+
+
+
+.container2{
+display: block;
+margin: 0;
+padding: 0;
+}
+.row1{
+background-color: rgba(226, 242, 248, 0.425);
+display: flex;
+justify-content: space-between;
+padding: 30px;
+
+}
+.row2{
+display: flex;
+justify-content: space-between;
+padding: 30px;
+}
+.wh{
+padding: 2px;
+background-image: linear-gradient(180deg, black,rgb(189, 188, 188), white);
+}
+
+.row3{
+display: flex;
+justify-content: right;
+}
+.data{
+padding: 10px;
+margin-right: 25px;
+
+}
+.qr{
+padding: 20px;
+
+margin-right: 150px;
+} 
+
+
+
+
+
+
+.head{
+text-align: center;
+padding: 10px;
+}
+
+.offer{
+display: flex;
+justify-content: center;
+}
+.basic, .professional, .teams{
+border: solid 2px blue;
+border-radius: 10px;
+padding: 30px;
+margin-top: 60px;
+margin-bottom: 60px;
+
+
+}
+
+.basic:hover, .professional:hover, .teams:hover{
+padding: 50px;
+background-color: blue;
+color: white;
+font-size: 20px;
+position: relative;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.tick{
+border: solid 2px blue;
+border-radius: 50%;
+padding: 2px 4px;
+}
+.btnPrice{
+display: flex;
+justify-content: center;
+}
+button{
+margin: 20px;
+border: blue 2px solid;
+border-radius: 20px;
+color: blue;
+font-size: 15px;
+background-color: white;
+}
+button:hover{
+color: white;
+background-color: blue;
+}
+
+
+
+
+
+.container4{
+background-image: url("descktop11.png");
+padding: 80px;
+}
+.box{
+margin-top: 40px;
+margin: auto;
+border: solid 1px white;
+border-radius: 10px;
+background-color: white;
+width: fit-content;
+padding: 30px;
+
+}
+.box form input{
+padding: 17px;
+border-radius: 10px;
+border: blue solid 1px;
+margin: 10px;
+}
+
+.box form button{
+padding: 15px 37%;
+background-color: blue;
+color: white;
+}
+
+
+
+.container5{
+    background-image: url("faq.png");
+    padding: 30px;
+}
+
+.ask{
+    padding: 15px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.container6{
+    background-image: url("desktop5.png");
+    padding: 60px;
+}
+
+.container6 h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.container6 button{
+    margin: 10px 43%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+.footer{
+    background-image: url("foot.png");
+}
+ .layer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.layer h3{
+    font-size: 40px;
+    padding: 10px;
+}
+.layer a{
+    padding: 4px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
